@@ -6,7 +6,6 @@
 * This section will explore on adding more extensions in consistent way and also debugging code.
 
 ### Set Up + verification
-* Open a terminal. Run the below command to change the mvnw file to be executable
 * Run the dotnet application using commands "2. Start Development mode" from devfile like you did in the previous lab(s)
 * Open a new terminal and execute below command. The response from the method has an error. The fifth character is "S" but it is returning "h"
   ```bash
