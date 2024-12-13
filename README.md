@@ -31,7 +31,6 @@
 
 ### What did we learn?
 * OpenShift DevSpaces reduces the Developers pain points. As a Developer, your life is getting simpler with the below
-    * Automatic Extensions (Language Support for Java(TM) by Red Hat) inclusion
     * Automatic provisioning of required command line tools
     * Consistent way of building, packaging and running the programs making faster iterative development
     * Consistent way of creating standardized end points for current and future testing
