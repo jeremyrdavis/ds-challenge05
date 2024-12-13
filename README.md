@@ -9,7 +9,7 @@
 * Run the dotnet application using commands "2. Start Development mode" from devfile like you did in the previous lab(s)
 * Open a new terminal and execute below command. The response from the method has an error. The fifth character is "S" but it is returning "h"
   ```bash
-  curl localhost:8080/api/challenge
+  curl localhost:5154/api/challenge05
   ```
 * Open the "Program.cs" and inspect the method challengeMethod()
 * Try to put a breakpoint and you realize that they do not work and or a way to do it
@@ -19,7 +19,7 @@
 * You can now use the "Run & Debug" from the navigation. Say Yes, if you are asked to change the "Dotnet Server to be run in Standard mode". There is a ".vscode/launch.json" already setup for you to use as a debug configuration.
 * Now fix the code, execute below command and ensure you are seeing "The Fifth Chatacter in the word "OpenShift"=[S]"
   ```bash
-  curl localhost:8080/api/challenge
+  curl localhost:5154/api/challenge05
   ```
 
 ### Success Criteria
